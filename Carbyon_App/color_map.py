@@ -1,0 +1,37 @@
+
+ # Create a comprehensive mapping of GRIDCODE values to colors and descriptions
+def Color_map():
+    color_map = { 
+        11: ('#e76f51', 'Tropical rainforest/Equatorial climate'),  # A (tropical)
+        12: ('#e76f51', 'Tropical monsoon climate'),  # A (tropical)
+        13: ('#e76f51', 'Tropical savanna climate'),  # A (tropical)
+        14: ('#e76f51', 'Tropical savanna climate'),  # A (tropical)
+        21: ('#90be6d', 'Cold Desert/Arid climate'),  # B (arid)
+        22: ('#f4a261', 'Hot Desert/Arid climate'),  # B (arid)
+        26: ('#90be6d', 'Cold Semi-arid/Semi-desert climate/steppe'),  # B (arid)
+        27: ('#f4a261', 'Hot Semi-arid/Semi-desert climate/steppe'),  # B (arid)
+        31: ('#f4a261', 'Humid subtropical climate'),  # C (temperate)
+        32: ('#e9c46a', 'Oceanic/Marine climate'),  # C (temperate)
+        33: ('#e9c46a', 'Oceanic/Marine climate'),  # C (temperate)
+        34: ('#e9c46a', 'Mediterranean climate'),  # C (temperate)
+        35: ('#e9c46a', 'Mediterranean climate'),  # C (temperate)
+        36: ('#e9c46a', 'Mediterranean climate'),  # C (temperate)
+        37: ('#f4a261', 'Humid subtropical'),  # C (temperate)
+        38: ('#e9c46a', 'Oceanic/Marine climate'),  # C (temperate)
+        39: ('#e9c46a', 'Oceanic/Marine climate'),  # C (temperate)
+        41: ('#e9c46a', 'Humid continental climate'),  # D (continental)
+        42: ('#e9c46a', 'Humid continental climate'),  # D (continental)
+        43: ('#e76f51', 'Subarctic climate'),  # D (continental)
+        44: ('#e76f51', 'Subarctic climate'),  # D (continental)
+        45: ('#e9c46a', 'Humid continental'),  # D (continental)
+        46: ('#e9c46a', 'Humid continental'),  # D (continental)
+        47: ('#f4a261', 'Subarctic climate'),  # D (continental)
+        48: ('#e76f51', 'Subarctic climate'),  # D (continental)
+        49: ('#e9c46a', 'Humid continental'),  # D (continental)
+        50: ('#e9c46a', 'Humid continental'),  # D (continental)
+        51: ('#e76f51', 'Subarctic climate'),  # D (continental)
+        52: ('#e76f51', 'Subarctic climate'),  # D (continental)
+        61: ('#e76f51', 'Ice Cap climate'),  # E (polar)
+        62: ('#e76f51', 'Tundra climate'),  # E (polar)
+    }
+    return color_map

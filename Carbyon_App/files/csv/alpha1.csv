@@ -1,0 +1,5 @@
+Date,ID,Lat,Long,CostsToCapture,EnergyRequirements,Production,Machine_costs,Start_up_time,Up_time,Duty_cycle
+2025-01-07,0x0001,51.420644,5.435212,350 euro/ton,10000 kWh/ton,30 ton/year,20000 euro,5 minutes,95%,50%
+2025-01-07,0x0001,50.420644,5.435212,347 euro/ton,9900 kWh/ton,29 ton/year,20000 euro,5 minutes,95%,50%
+2025-01-07,0x0001,30.668103,2.795346,900 euro/ton,12000 kWh/ton,10 ton/year,20000 euro,5 minutes,95%,50%
+2025-01-07,0x0001,30.668103,10.795346,800 euro/ton,11800 kWh/ton,10 ton/year,20000 euro,5 minutes,95%,50%

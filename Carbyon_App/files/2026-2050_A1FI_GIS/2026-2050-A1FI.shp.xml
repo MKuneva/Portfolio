@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="de"><Esri><MetaID>{28AD09D9-60DE-40B1-BF48-E6B4AC21F3A6}</MetaID><CreaDate>20100526</CreaDate><CreaTime>14542400</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Programme\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20100526" Time="145424">RasterToPolygon Calculation E:\Projects\Koeppen_Scenarios\gis\2026-2050-A1FI-GIS.shp NO_SIMPLIFY VALUE</Process></lineage></DataProperties></Esri></metadata>
